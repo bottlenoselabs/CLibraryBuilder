@@ -1,3 +1,3 @@
-# Template Project
+# Template for C# project
 
-GitHub repository template for all software projects at Bottlenose Labs.
+GitHub repository template for C# software projects at Bottlenose Labs.
