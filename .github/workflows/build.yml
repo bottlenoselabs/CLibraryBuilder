@@ -6,9 +6,8 @@ on:
 
 jobs:
 
-  dotnet-job:
+  build-dotnet-job:
     name: "Build .NET solution"
-    needs: [native-job]
     runs-on: ubuntu-latest
     steps:
 
